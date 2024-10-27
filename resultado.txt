@@ -1,0 +1,8 @@
+Rectangulo{color='#fgdfhg', l1='10', l2='10', l3='480', l4='480'}
+
+Rectangulo{color='#fgfdrgdf', l1='15', l2='15', l3='350', l4='350'}
+
+Circulo{color='#sdgsdgf', radio1='250', radio2='250', radio3='100'}
+
+Cuadrado{color='#dfgjdfoigjfd', lado1='300', lado2='300'}
+
